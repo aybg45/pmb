@@ -21,3 +21,6 @@ service mysql start
 echo '' | mysql -uadmin -padmin || initialiser_db
 service php7.0-fpm start
 nginx -g 'daemon off;'
+
+
+#Welcome Jperon, it's one of your pupil. I'd like help you this but I don't know this language. Ayth
